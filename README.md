@@ -11,13 +11,9 @@
 
 설치 EXE와 배포 ZIP 중 하나를 받는다. ZIP에는 같은 설치 EXE·한글 설치 안내·EXE SHA-256이 들어 있으며 무설치판이 아니다. GitHub 자동 생성 Source code 압축 파일은 게임 설치 파일이 아니다. 각 다운로드의 무결성은 릴리스의 `.sha256` 파일로 확인한다.
 
-## v1.1.0 주요 변경
+## 패치 내역
 
-- 약 42초의 백연발 → 거대 주먹 → 마무리 공격으로 이어지는 로켓 펀치 100연발을 추가했다.
-- 아이언 커터(로켓 펀치 6단계)·양손 로켓 펀치(동시 2발)·연사 5단계를 모두 완성한 뒤 15분 전에 강화 카드로 습득한다. Q 또는 전용 버튼으로 사용하고 1,000기 처치로 재충전한다.
-- 강화 카드에 파일럿·기체 컷신 이미지를 표시한다. 본체 누락·사각 잘림·안내 겹침·종료 후 흰 판 잔류를 수정했다.
-- 100연발 전용 대사와 원본 명령 시점의 효과음을 연결했다. 보스 음성·자막은 별도 채널에서 동시에 재생하며 정지·재개·음소거는 두 채널에 적용한다.
-- 추가 음성·효과음도 사용자 설치본에서 구성하도록 설치 레시피를 개선했다.
+v1.1.0은 로켓 펀치 100연발을 추가하고 연출을 개선한 업데이트다. **[상세 패치 내역은 블로그에서 확인한다.](https://mntkim.com/srw-survive/#sv-update)**
 
 ## 설치 전 확인
 
@@ -64,8 +60,6 @@ Windows의 **설치된 앱** 또는 설치 폴더의 **제거.exe**로 제거한
 
 이 저장소는 설치판과 이용 안내를 제공하는 배포용 저장소다. 원작 파일과 에셋, 전체 개발 소스와 개인 검증 자료는 제공하지 않는다. 슈퍼로봇대전과 등장 작품·캐릭터의 권리는 각 권리자에게 있으며 본 프로젝트는 공식 제품이 아니다. 제삼자 구성 요소의 라이선스는 설치 폴더의 `resources/라이선스`에 포함된다.
 
-## English summary
+## English guide
 
-Version 1.1.0 adds the approximately 42-second Rocket Punch 100-shot ultimate, dedicated dialogue and timed sound effects, upgrade-card cut-in artwork, and visual fixes. Complete Iron Cutter (Rocket Punch level 6), dual Rocket Punch (two simultaneous shots), and Rapid Fire level 5, then acquire the upgrade card before 15 minutes. Use Q or the dedicated button; defeat 1,000 enemies to recharge.
-
-Requires Windows x64 and an installed Steam copy of Super Robot Wars V (tested build 4635641, App ID 1031500). Original assets are reconstructed locally during installation and are not included in the downloads. The original game must remain installed. The release ZIP contains the same installer and is not portable. See the [English guide](https://mntkim.com/en/srw-survive/) for installation and controls.
+**[Read the detailed patch notes on the blog.](https://mntkim.com/en/srw-survive/#sv-update)** Installation requirements and controls are available in the same guide.
