@@ -13,7 +13,7 @@
 
 ## 패치 내역
 
-v1.1.0은 로켓 펀치 100연발을 추가하고 연출을 개선한 업데이트다. **[상세 패치 내역은 블로그에서 확인한다.](https://mntkim.com/srw-survive/#sv-update)**
+v1.1.0은 로켓 펀치 100연발을 추가하고 연출을 개선한 업데이트다. **[상세 패치 내역은 블로그에서 확인한다.](https://mntkim.com/srw-survive-v1-1-0-update/)**
 
 ## 설치 전 확인
 
@@ -62,4 +62,4 @@ Windows의 **설치된 앱** 또는 설치 폴더의 **제거.exe**로 제거한
 
 ## English guide
 
-**[Read the detailed patch notes on the blog.](https://mntkim.com/en/srw-survive/#sv-update)** Installation requirements and controls are available in the same guide.
+**[Read the detailed patch notes on the blog.](https://mntkim.com/en/srw-survive-v1-1-0-update/)** Installation requirements and controls are available in the same guide.
