@@ -2,7 +2,7 @@
 
 그레이트 마징가와 플레이·음향 개선을 포함한 **v1.2.0** 배포판이다.
 
-**[게임 소개·설치·이용 안내는 블로그에서 확인한다.](https://mntkim.com/srw-survive/)** · [English guide](https://mntkim.com/en/srw-survive/)
+**[게임 소개·설치·이용 안내](https://mntkim.com/srw-survive/)** · [English guide](https://mntkim.com/en/srw-survive/)
 
 [최신 v1.2.0 설치 파일](https://github.com/holizero/srw-survive/releases/tag/v1.2.0)
 
